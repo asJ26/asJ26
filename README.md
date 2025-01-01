@@ -42,9 +42,6 @@ AWS Certified Data Engineer passionate about building scalable data solutions an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-s-jadhav/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshjadhav26@gmail.com)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asJ26&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asJ26&layout=compact&theme=radical)
 
 ---
 💡 *"Data is not just data; it's the key to unlocking insights and driving innovation."*
