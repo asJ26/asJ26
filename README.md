@@ -4,7 +4,7 @@ AWS Certified Data Engineer passionate about building scalable data solutions an
 
 ## 🚀 About Me
 - 🎓 MS in Computer Science from Syracuse University
-- 💼 Currently Data Engineering Intern at Syracuse University
+- 💼 Currently "Software Engineer - Data" at Syracuse University
 - 🌟 3+ years of experience in Data Engineering and Cloud Technologies
 - 📊 Specialized in AWS, Azure, and Big Data Technologies
 
