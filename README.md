@@ -1,18 +1,5 @@
 # 👋 Hi, I'm Akhilesh Jadhav
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)]([https://yourportfolio.com](https://akhileshjadhav.info/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/akhilesh-s-jadhav/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:akhileshjadhav@nextitjobs.com)
-
-## 💻 About Me
-
-Experienced Software Developer with expertise in building distributed systems, connecting front-end technologies with back-end frameworks. I specialize in designing RESTful APIs and microservices architecture integrated with SQL and NoSQL databases, deployed on cloud platforms. I establish DevOps practices through containerization and CI/CD pipelines, following Agile methodologies to create user-centric solutions.
-
-- 🌱 Currently working on fraud detection systems using LLMs and event-driven architecture
-- 🔭 Exploring cloud-native solutions on AWS and GCP
-- 🚀 Passionate about building resilient, scalable systems
-- 📍 Based in Santa Clara, CA
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -50,22 +37,7 @@ Experienced Software Developer with expertise in building distributed systems, c
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-## 🏆 Experience
 
-**Citi** - Software Developer Intern (Jun 2024 - Present)
-- Built fraud detection systems with Spring Boot, React.js, and MySQL
-- Developed React components for RAG dashboards with Apache Kafka
-- Implemented database optimizations with Hibernate ORM and Redis
-
-**PTC** - Software Developer (Jul 2023 - May 2024)
-- Led development of Manufacturing Workflow Automation Platform using PERN stack
-- Created RESTful APIs with Node.js and Express for workflow management
-- Deployed infrastructure on AWS EKS with CI/CD pipelines using Jenkins
-
-**Sigma Infosolutions Ltd.** - Software Developer (Jun 2020 - Jul 2022)
-- Built microservices-based retail systems with Java Spring Boot
-- Developed customer dashboards with React.js, Redux, and MongoDB
-- Engineered back-end services using Node.js and Express.js
 
 ## 📚 Education
 
